@@ -1,17 +1,26 @@
-Hi 👋
+<img src="./banner.png.png" width="100%" />
 
-I'm currently learning software development and building projects.
+# Hi 👋
 
-🚀 Tech Stack
-- JavaScript
-- TypeScript
+```js
+const carnicus = {
+  learning: ["JavaScript", "SQL", "React"],
+  focus: "Building projects and improving every day",
+  status: "Always learning"
+}
+```
+
+## 🚀 Currently Learning
+- JavaScript (ES6+)
+- SQL & Databases
 - React
-- Node.js
+- Frontend Development
 
- 📚 Currently Learning
-- Full-stack development
-- APIs
-- Databases
+## 🛠 Current Goal
+Building clean modern projects and growing as a developer.
 
- 🛠 Current Project
-Working on a modern web application.
+## 📈 GitHub Stats
+Coming soon...
+
+## ⚡ Fun Fact
+I enjoy turning ideas into real projects.
